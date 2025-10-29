@@ -1,6 +1,6 @@
 ## Olá 👋👋
 
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Kevin Assis 👋
 
 ## Sobre mim
 Sou estudante de **Ciência da Computação** 🎓 atualmente no início da minha jornada na área de tecnologia. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades em programação, desenvolvimento web e outras tecnologias.
@@ -8,29 +8,24 @@ Sou estudante de **Ciência da Computação** 🎓 atualmente no início da minh
 ---
 
 ## Habilidades e Tecnologias
-- Linguagens de Programação: `Python`, `JavaScript`, `PHP`, `C`
-- Desenvolvimento Web: HTML, CSS, PHP, frameworks básicos
+- Linguagens de Programação: `Python`, `JavaScript`, `C`
 - Controle de Versão: Git & GitHub
 - Banco de Dados: MySQL, SQLite
-- Ferramentas: VSCode, Terminal, Postman
+- Ferramentas: VSCode
 
 ---
 
 ## Projetos em destaque
 Aqui estão alguns dos meus projetos recentes que você pode conferir:
 
-- 💻 [Nome do Projeto 1](link-do-projeto-1) - Descrição breve do projeto.
-- 📱 [Nome do Projeto 2](link-do-projeto-2) - Descrição breve do projeto.
-- 🌐 [Nome do Projeto 3](link-do-projeto-3) - Descrição breve do projeto.
+- *Nenhum projeto no momento! :(*
 
 ---
 
 ## Contato
 Sinta-se à vontade para me conectar comigo através das redes sociais!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+- *Estou preparando...*
 
 ---
 
@@ -47,7 +42,7 @@ Sinta-se à vontade para me conectar comigo através das redes sociais!
 
 ---
 
-> “Não pare até se orgulhar.” 🚀
+> “Não desista!.” 🚀
 
 ---
 
