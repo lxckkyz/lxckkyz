@@ -1,46 +1,35 @@
-# Olá, eu sou Kevin Assis 👋
+# Olá, eu sou [Seu Nome] 👋
 
 ## Sobre mim
-Sou estudante de **Ciência da Computação** 🎓 atualmente no início da minha jornada na área de tecnologia. Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades em programação, desenvolvimento web e outras tecnologias.
+Sou estudante de **Ciência da Computação** 🎓, no início da minha jornada na tecnologia. Apaixonado por aprendizado contínuo, programação e desenvolvimento web.
 
 ---
 
 ## Habilidades e Tecnologias
-- Linguagens de Programação: `Python`, `JavaScript`, `C`
-- Controle de Versão: Git & GitHub
-- Banco de Dados: MySQL, SQLite
-- Ferramentas: VSCode
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
 ## Projetos em destaque
-Aqui estão alguns dos meus projetos recentes que você pode conferir:
+- 💻 *Nenhum projeto no momento...*
 
-- *Nenhum projeto no momento! :(*
+---
+
+## Minhas estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxckkyz&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
 ## Contato
-Sinta-se à vontade para me conectar comigo através das redes sociais!
-
-- *Estou preparando...*
-
----
-
-## Gostos e interesses
-- Música 🎵 e produção musical  
-- Desenvolvimento criativo e resolução de problemas 💡
-- Aprendizado contínuo e exploração de novas tecnologias 🌍  
-
----
-
-## Status Atual
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&hide_border=true&background=000000&stroke=FFFFFF&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF)
-
----
-
-> “Não desista!.” 🚀
+<!--
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+-->
 
 ---
 
