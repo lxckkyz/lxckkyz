@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Kevin Assis 👋
 
 ## Sobre mim
 Sou estudante de **Ciência da Computação** 🎓, no início da minha jornada na tecnologia. Apaixonado por aprendizado contínuo, programação e desenvolvimento web.
