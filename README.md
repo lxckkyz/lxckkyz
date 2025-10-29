@@ -1,5 +1,3 @@
-## Olá 👋👋
-
 # Olá, eu sou Kevin Assis 👋
 
 ## Sobre mim
